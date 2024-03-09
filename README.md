@@ -1,1 +1,1 @@
-This is m,y first REST API project, that simulates the Doctor's ordination
+This is my first REST API project, which simulates the Doctor's ordination
