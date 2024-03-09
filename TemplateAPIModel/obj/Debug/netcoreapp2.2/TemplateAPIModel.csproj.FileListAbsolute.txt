@@ -1,0 +1,53 @@
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.deps.json
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CopyComplete
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\Ondra\Desktop\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CoreCompileInputs.cache
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.deps.json
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+D:\MyGit\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.deps.json
+D:\MyGit\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.dll
+D:\MyGit\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.AssemblyReference.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CoreCompileInputs.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.dll
+D:\MyGit\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.deps.json
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.AssemblyReference.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CoreCompileInputs.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.deps.json
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateAPIModel.pdb
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.csproj.CopyComplete
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.dll
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateAPIModel\obj\Debug\netcoreapp2.2\TemplateAPIModel.pdb

@@ -1,0 +1,14 @@
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateAPIServices.deps.json
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateAPIServices.dll
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateAPIServices.pdb
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateAPIModel.dll
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateShared.dll
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateAPIModel.pdb
+D:\MyGit\TestTask\TemplateAPIServices\bin\Release\netcoreapp2.2\TemplateShared.pdb
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.csproj.AssemblyReference.cache
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.AssemblyInfoInputs.cache
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.AssemblyInfo.cs
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.csproj.CoreCompileInputs.cache
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.csproj.CopyComplete
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.dll
+D:\MyGit\TestTask\TemplateAPIServices\obj\Release\netcoreapp2.2\TemplateAPIServices.pdb

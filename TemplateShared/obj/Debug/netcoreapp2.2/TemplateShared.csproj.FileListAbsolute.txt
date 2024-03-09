@@ -1,0 +1,44 @@
+C:\Users\Ondra\Desktop\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.deps.json
+C:\Users\Ondra\Desktop\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\Ondra\Desktop\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\Ondra\Desktop\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\Ondra\Desktop\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.deps.json
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\osynek\Documents\Work\Template\Rest API\API\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.pdb
+D:\MyGit\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.deps.json
+D:\MyGit\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.dll
+D:\MyGit\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.AssemblyReference.cache
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.CoreCompileInputs.cache
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.dll
+D:\MyGit\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.deps.json
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.AssemblyReference.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\akharitonov\Desktop\TestTask\TestTask\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.deps.json
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\bin\Debug\netcoreapp2.2\TemplateShared.pdb
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.dll
+C:\Users\PC\Desktop\Ukazka .Net\Ukazka\Ukazka\TemplateShared\obj\Debug\netcoreapp2.2\TemplateShared.pdb

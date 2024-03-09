@@ -1,0 +1,9 @@
+D:\MyGit\TestTask\TemplateShared\bin\Release\netcoreapp2.2\TemplateShared.deps.json
+D:\MyGit\TestTask\TemplateShared\bin\Release\netcoreapp2.2\TemplateShared.dll
+D:\MyGit\TestTask\TemplateShared\bin\Release\netcoreapp2.2\TemplateShared.pdb
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.csproj.AssemblyReference.cache
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.AssemblyInfoInputs.cache
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.AssemblyInfo.cs
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.csproj.CoreCompileInputs.cache
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.dll
+D:\MyGit\TestTask\TemplateShared\obj\Release\netcoreapp2.2\TemplateShared.pdb

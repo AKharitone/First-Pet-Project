@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateAPIModel\\TemplateAPIModel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateAPIModel\\TemplateAPIModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateAPIModel\\TemplateAPIModel.csproj",
+        "projectName": "TemplateAPIModel",
+        "projectPath": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateAPIModel\\TemplateAPIModel.csproj",
+        "packagesPath": "C:\\Users\\daskh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateAPIModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daskh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/5TXYXjAYbkxqIZCES7OdsTBuG9sdL5yRoFJvmbwIyzb8Z6ht3g/api": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\TemplateShared.csproj": {
+                "projectPath": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\TemplateShared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\TemplateShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\TemplateShared.csproj",
+        "projectName": "TemplateShared",
+        "projectPath": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\TemplateShared.csproj",
+        "packagesPath": "C:\\Users\\daskh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daskh\\Desktop\\My projects\\Ukazka .Net\\Ukazka\\Ukazka\\TemplateShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daskh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/5TXYXjAYbkxqIZCES7OdsTBuG9sdL5yRoFJvmbwIyzb8Z6ht3g/api": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

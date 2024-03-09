@@ -1,0 +1,4 @@
+2021-10-05 09:58:06.409 +02:00 [Warning] Query: '"(from User <generated>_1 in DbSet<User> select [<generated>_1]).FirstOrDefault()"' uses First/FirstOrDefault/Last/LastOrDefault operation without OrderBy and filter which may lead to unpredictable results.
+2021-10-05 09:59:05.176 +02:00 [Warning] The LINQ expression '"where ([x].PasswordHash == GetHash(((__model_Password_1 + [x].UserName) + [x].PasswordSalt)))"' could not be translated and will be evaluated locally.
+2021-10-05 09:59:05.191 +02:00 [Warning] The LINQ expression '"SingleOrDefault()"' could not be translated and will be evaluated locally.
+2021-10-05 10:09:24.851 +02:00 [Warning] Query: '"(from User <generated>_1 in DbSet<User> select [<generated>_1]).FirstOrDefault()"' uses First/FirstOrDefault/Last/LastOrDefault operation without OrderBy and filter which may lead to unpredictable results.

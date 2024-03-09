@@ -1,0 +1,11 @@
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\obj\Debug\netcoreapp2.2\SolarTurbinesAPIServices.csproj.CoreCompileInputs.cache
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\obj\Debug\netcoreapp2.2\SolarTurbinesAPIServices.AssemblyInfoInputs.cache
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\obj\Debug\netcoreapp2.2\SolarTurbinesAPIServices.AssemblyInfo.cs
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\SolarTurbinesAPIServices.deps.json
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\SolarTurbinesAPIServices.dll
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\SolarTurbinesAPIModel.dll
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\SolarTurbinesAPIModel.pdb
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\obj\Debug\netcoreapp2.2\SolarTurbinesAPIServices.csprojAssemblyReference.cache
+C:\Projects\SolarTurbines\app\SolarTurbinesAPI\SolarTurbinesAPIServices\obj\Debug\netcoreapp2.2\SolarTurbinesAPIServices.csproj.CopyComplete

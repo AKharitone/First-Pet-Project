@@ -1,0 +1,9 @@
+D:\MyGit\TestTask\TemplateAPIModel\bin\Release\netcoreapp2.2\TemplateAPIModel.deps.json
+D:\MyGit\TestTask\TemplateAPIModel\bin\Release\netcoreapp2.2\TemplateAPIModel.dll
+D:\MyGit\TestTask\TemplateAPIModel\bin\Release\netcoreapp2.2\TemplateAPIModel.pdb
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.csproj.AssemblyReference.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.AssemblyInfoInputs.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.AssemblyInfo.cs
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.csproj.CoreCompileInputs.cache
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.dll
+D:\MyGit\TestTask\TemplateAPIModel\obj\Release\netcoreapp2.2\TemplateAPIModel.pdb

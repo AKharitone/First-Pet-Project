@@ -1,0 +1,16 @@
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.deps.json
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.dll
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.pdb
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.csproj.CoreCompileInputs.cache
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.AssemblyInfoInputs.cache
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.AssemblyInfo.cs
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.dll
+C:\Projects\SolarturbinesBIQ\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.pdb
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.deps.json
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.dll
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\bin\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.pdb
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.dll
+C:\Users\Ondra\Desktop\API\SolarTurbinesBIQ_Shared\obj\Debug\netcoreapp2.2\SolarTurbinesBIQ_Shared.pdb
